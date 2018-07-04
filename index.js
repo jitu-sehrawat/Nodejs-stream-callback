@@ -1,4 +1,3 @@
-const streams = require('stream');
 const dataAPI = require('./dataAPI');
 
 function getData(){
